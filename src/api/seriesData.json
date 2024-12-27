@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Stranger Things",
+    "image": "http://localhost:5173/images/stranger-things.jpg",
+    "rating": 8.8,
+    "seasons": 4,
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "cast": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder"],
+    "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, supernatural forces, and a strange little girl.",
+    "watch_url": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "id": 2,
+    "title": "Money Heist",
+    "image": "http://localhost:5173/images/money-heist.jpg",
+    "rating": 9.5,
+    "seasons": 5,
+    "genre": ["Action", "Crime", "Drama"],
+    "cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"],
+    "summary": "A group of robbers, led by a mastermind known as 'The Professor,' plan and execute heists on the Royal Mint of Spain and the Bank of Spain.",
+    "watch_url": "https://www.netflix.com/title/80192098"
+  },
+  {
+    "id": 3,
+    "title": "Mindhunter",
+    "image": "http://localhost:5173/images/mindhunter.jpg",
+    "rating": 9.1,
+    "seasons": 2,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "cast": ["Jonathan Groff", "Holt McCallany", "Anna Torv"],
+    "summary": "Two FBI agents pioneer modern criminal profiling as they delve into the psyches of serial killers to solve brutal murders.",
+    "watch_url": "https://www.netflix.com/title/80114855"
+  },
+  {
+    "id": 4,
+    "title": "Tokyo Ghoul",
+    "image": "http://localhost:5173/images/tokyo-ghoul.jpg",
+    "rating": 8.7,
+    "seasons": 5,
+    "genre": ["Biography", "Drama", "History"],
+    "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
+    "summary": "Chronicles the reign of Queen Elizabeth II from her early days to modern times, navigating political and personal events.",
+    "watch_url": "https://www.netflix.com/title/80023687"
+  },
+  {
+    "id": 5,
+    "title": "Transformers Prime",
+    "image": "http://localhost:5173/images/transformers-prime.jpg",
+    "rating": 8.8,
+    "seasons": 6,
+    "genre": ["Animation", "Comedy", "Drama"],
+    "cast": ["Will Arnett", "Amy Sedaris", "Alison Brie"],
+    "summary": "A humanoid horse, BoJack Horseman, navigates his washed-up status as a 90s sitcom star while dealing with personal struggles.",
+    "watch_url": "https://www.netflix.com/title/70234439"
+  }
+]

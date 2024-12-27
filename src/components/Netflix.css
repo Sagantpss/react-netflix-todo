@@ -1,0 +1,14 @@
+.average {
+  background: rgb(252, 248, 17);
+}
+
+.top-rated {
+  background: rgb(126 255 154);
+}
+
+.card-rating {
+  color: black;
+  padding: 5px 20px;
+  border-radius: 15px;
+  font-weight: bold;
+}
